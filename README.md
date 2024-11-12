@@ -5,10 +5,9 @@
 ### 🎯 What I Do
 
 #### 🎮 Game Development
-- Unity Engine Specialist
+- Unity Engine 
 - C# Programming
 - Physics-Based Gameplay
-- Ragdoll Systems
 - Character Controllers
 
 #### 🌐 Web Development
